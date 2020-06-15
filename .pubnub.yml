@@ -508,10 +508,8 @@ scm: github.com/pubnub/unity
 supported-platforms: 
   - 
     editors: 
-      - "Unity 5.5.1"
-      - "Unity 2017.3.*"
-      - "Unity 2018.*"
-      - "Unity 2019.*"
+      - "LTS Release 2018.4.23f1"
+      - "LTS Release 2019.4.0f1"
     platforms: 
       - "iOS player, will require iOS 7.0 or higher."
       - "Android, OS 2.3.1 or later; ARMv7 (Cortex) CPU with NEON support or Atom CPU; OpenGL ES 2.0 or later."
